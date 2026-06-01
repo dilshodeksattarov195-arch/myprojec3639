@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userperify",
+        "uuid": 11484684,
+        "checksum": "mtzmef"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
